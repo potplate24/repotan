@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://apfel.oneone.digital/ocean-la3_sitemap.xml
